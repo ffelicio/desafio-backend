@@ -45,7 +45,7 @@ API REST utilizando framework Phalcon PHP.
 
 Os comandos a seguir criam e configuram uma máquina virtual com linux, contendo o ambiente de desenvolvimento necessário e o projeto inicial. *Estes comandos funcionam perfeitamente no sistema operacional linux, caso você utilize outro sistema operacional, é necessário procurar os comandos equivalentes.*
 
-> OBS: TODOS OS CAOMANDOS ABAIXO DEVEM SER EXECUTADOS COMO USUÁRIO NORMAL, NÃO COMO ROOT.
+> OBS: TODOS OS COMANDOS ABAIXO DEVEM SER EXECUTADOS COMO USUÁRIO NORMAL, NÃO COMO ROOT.
 
 Abra o terminal e digite:
 ```sh
