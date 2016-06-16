@@ -47,12 +47,12 @@ Os comandos a seguir criam e configuram uma máquina virtual com linux, contendo
 
 Abra o terminal e digite:
 ```sh
-vagrant box add desafio-backend https://cloud-images.ubuntu.com/vagrant/trusty/current/trusty-server-cloudimg-amd64-vagrant-disk1.box
+$ vagrant box add desafio-backend https://cloud-images.ubuntu.com/vagrant/trusty/current/trusty-server-cloudimg-amd64-vagrant-disk1.box
 ```
 
 Aguarde o download finalizar. Este passo pode demorar um pouco dependendo da sua conexão. Ainda no terminal, entre na pasta `vagrant` do projeto `desafio-backend`  e rode o seguinte comando:
 ```sh
-vagrant up
+$ vagrant up
 ```
 
 Aguarde a configuração terminar. Após isso, o ambiente de desenvolvimento estará devidamente configurado.
